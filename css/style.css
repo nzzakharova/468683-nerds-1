@@ -779,7 +779,6 @@ input[type="radio"].visually-hidden {
 	line-height: 30px;
 	font-weight: bold;
 	text-transform: uppercase;
-
 }
 
 .catalog-sort .sorting{
@@ -1086,8 +1085,10 @@ input[type="radio"].visually-hidden {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+
 	width: 80px;
 	height: 80px;
+
 	border-radius: 50%;
 	background-color: #e1e1e1;
 	color: #ffffff;
@@ -1207,7 +1208,6 @@ input[type="radio"].visually-hidden {
 	width: 27px;
 	height: 5px;
 	background-color: #fecccd;
-	/*background-color: rgba(254, 204, 205, 0.3);*/
 }
 
 .modal-close::before {
@@ -1231,7 +1231,6 @@ input[type="radio"].visually-hidden {
 .modal-feedback h2 {
 	margin: 0;
 	margin-bottom: 38px;
-
 	font-size: 45px;
 	line-height: 45px;
 	font-weight: medium;
@@ -1258,7 +1257,6 @@ input[type="radio"].visually-hidden {
 .feedback-form input[type="email"],
 .feedback-form textarea {
 	box-sizing: border-box;
-	
 	font: inherit;
 	color: #283136;
 	border: 2px solid #e4e8e9;
@@ -1293,12 +1291,3 @@ input[type="radio"].visually-hidden {
 	padding: 17px 0;
 	text-align: center; 
 }
-/* НЕВАЛИДНОЕ СОСТОЯНИЕ
-
-.feedback-form input:invalid,
-.feedback-form textarea:invalid {
-	color: #e74246;
-	border-color: #ef8184;
-}*/
-
-
