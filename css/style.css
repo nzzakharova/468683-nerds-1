@@ -1351,6 +1351,7 @@ input[type="radio"].visually-hidden {
 	background-image: url("../img/close-cross.svg");
 	background-repeat: no-repeat;
 	background-position: 0 0;
+	background-color: transparent;
 }
 
 .modal-close:hover {
